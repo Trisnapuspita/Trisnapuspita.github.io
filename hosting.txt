@@ -1,1 +1,5 @@
+Firebase Hosting:
 https://football-pwa-ae3c1.web.app
+
+Github:
+https://github.com/Trisnapuspita/trisnapuspita.github.io
